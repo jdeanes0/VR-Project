@@ -1,0 +1,15 @@
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\bin\Debug\net6.0\C Sharp Learning.exe
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\bin\Debug\net6.0\C Sharp Learning.deps.json
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\bin\Debug\net6.0\C Sharp Learning.runtimeconfig.json
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\bin\Debug\net6.0\C Sharp Learning.dll
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\bin\Debug\net6.0\C Sharp Learning.pdb
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.csproj.AssemblyReference.cache
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.AssemblyInfoInputs.cache
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.AssemblyInfo.cs
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.csproj.CoreCompileInputs.cache
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.dll
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\refint\C Sharp Learning.dll
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.pdb
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\C Sharp Learning.genruntimeconfig.cache
+C:\Users\under\source\repos\VR-Project\P1\C Sharp Learning\obj\Debug\net6.0\ref\C Sharp Learning.dll
